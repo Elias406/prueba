@@ -1,0 +1,47 @@
+Buenos dias a quienes descarguen este reposito. 
+
+Este repositorio es un proyecto simple basado en php, con el paradigma de programacion 
+MVC y orientado a objetos con conexiones a base de datos PDO. 
+
+Para su uso lo primero es descargar el respositorio y guardarlo en el ejecutador de 
+nuestro lenguaje de programacion. Me basare en Xampp pero es general para cada servidor. 
+
+descargaremos este repositorio en una carpeta llamada prueba. en la ruta del xampp ya 
+previamente instalado, la ruta sera xampp/hatdocs/prueba. 
+
+luego procederemos a crear nuestra base de datos en nuestro mysql el nombre que le 
+asignaremos a nuestro proyecto sera "prueba" y subimos nuestra base de datos; antes de
+este paso lo que haremos sera cambiarle la extencion al archivo a sql.txt por la  de 
+sql.sql, y luego si procedemo a cargar el archivo llamado sql.sql del repositorio hacia
+nuestra base de datos.
+
+una vez terminado podemos iniciar con nuestro proyecto yendo a la ruta en nuestro 
+navegador. 
+
+localhost/prueba/
+
+una vez aqui se desplegara un registro de usuario. donde podremos registrarnos.
+pero el sistema ya tiene un usuario por defeto. 
+
+correo:
+test1234@help.com
+contraseña:
+test1234 
+
+una vez registrado llevara a una pagina donde se pueden gestionar todos los usuarios.
+como es eliminar y editar los usuarios. En el menu que se despliega se pueden ver que 
+tenemos varias rutas o items para distintas acciones. 
+
+en la seccion de usuario podemos ver los usuarios registrados en el sistema, otra cosa 
+que se puede hacer es subir un archivo en nuestro proyecto. 
+para esto ya el servidor tiene que tener habilitado el gd que nos permite subir y cargar 
+elemento al sistema. 
+
+podemos darle un nombre a nuestro archivo y una descripcion, guardarlo una ves realizado
+el proceso nos redirecciona hasta la vista que nos permite ver los archivo que tenemos en
+nuestra base de datos. 
+
+Para efectos de este proyecto no contendrá ningun archivo.
+
+GRACIAS POR DESCARGAR MI REPOSITORIO. 
+
